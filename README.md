@@ -2,13 +2,14 @@
 Repositorio de enlaces a juegos y recursos godoteros argentinos
 
 
-#Este es un repositorio donde vas a poder encontrar juegos argentinos hechos con Godot.
-#El conjunto intersección entre [Steamcito, Videojuegos Argentinos](https://store.steampowered.com/curator/45013169/) y [Is It Made With Godot](https://store.steampowered.com/curator/41324400-Is-it-made-with-Godot/)!
-###Podés encontrar más juegos hechos en Godot a nivel global en [Awesome Godot](https://github.com/godotengine/awesome-godot)
+# Este es un repositorio donde vas a poder encontrar juegos argentinos hechos con Godot.
+# El conjunto intersección entre [Steamcito, Videojuegos Argentinos](https://store.steampowered.com/curator/45013169/) y [Is It Made With Godot](https://store.steampowered.com/curator/41324400-Is-it-made-with-Godot/)!
+### Podés encontrar más juegos hechos en Godot a nivel global en [Awesome Godot](https://github.com/godotengine/awesome-godot)
 
 [label](http://example.com)
 
 [¿Cuántos ____ hacen falta para cambiar un foquito?](https://j9794.itch.io/ggj2024) Clickeá para averiguar si 2 elefantes y 3 ingenieros son más eficientes que 6 gallinas y un ventilador - Por {}
+[Galaxyno](https://j9794.itch.io/galaxyno)
 
 [ABUELA-LALA-LA-LA-LA](https://destruction-company.itch.io/abuela-la-la-la) - Por Destruction Company
 
@@ -19,7 +20,10 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 [El Panadero (itch.io)](https://sketchyceviche.itch.io/el-panadero) 
 [El Panadero (Steam)](https://store.steampowered.com/app/2313180/El_Panadero_The_Baker/) Armado con tus puños y tu palo de amasar, enfrentate a las verduras del espacio que destruyeron tu panadería en un plataformero 2D surreal! - Por Sketchy Ceviche
 
-[Subnamuncurá](https://chofitet.itch.io/subnamuncura)
-[](https://drive.google.com/drive/folders/1WMpgKQyzo7W5hgKM4gHubewGcZdkLnim) el de cot
-[Fizzy Ride](https://damianartclub.itch.io/fizzyride)
+[Subnamuncurá](https://chofitet.itch.io/subnamuncura) - Por Jazmín Martinez, Gian Franco Catania (Chicho), Sofía Tetzlaff y Facundo Brizzi
+[Alhué](https://drive.google.com/drive/folders/1WMpgKQyzo7W5hgKM4gHubewGcZdkLnim) - Por Ursa Major Studio
+[Fizzy Ride](https://damianartclub.itch.io/fizzyride) - Por DamianArtClub
 [Void in One!](https://estroponcio.itch.io/void-in-one) - Por Estroponcio
+
+[BattleCats Survivors Snake](https://play.google.com/store/apps/details?id=com.battlecats.survivors) - Por CuteClaw Games
+
