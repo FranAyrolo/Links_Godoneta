@@ -23,7 +23,7 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 
 [Era en un Bosque (There was a Forest)](https://elfogon.itch.io/therewasaforest) Ayuda a Ellie, una niña misteriosa perdida en un bosque, a encontrar el camino a casa. Conocé a las criaturas que habitan El Bosque en su aventura por salvarlo de la oscuridad. - Por El Fogón Game Studio
 
-[Subnamuncurá](https://chofitet.itch.io/subnamuncura) - Por Jazmín Martinez, Gian Franco Catania (Chicho), Sofía Tetzlaff y Facundo Brizzi
+[Subnamuncurá](https://chofitet.itch.io/subnamuncura) - Embarcate en la aventura de cartografiar la isla sumergida Namuncurá en el Banco Burdwood, ubicada un toquesín más abajo de las Islas Malvinas. Por Jazmín Martinez, Gian Franco Catania (Chicho), Sofía Tetzlaff y Facundo Brizzi
 
 [Alhué](https://drive.google.com/drive/folders/1WMpgKQyzo7W5hgKM4gHubewGcZdkLnim) - Alhué se embarca en una aventura al pico de la montaña para curar al bosque de la enfermedad que lo contamina, y a la vez, a sí misma. Por [Constanza Morend](https://kirayni.carrd.co) (Ursa Major Estudio)
 
