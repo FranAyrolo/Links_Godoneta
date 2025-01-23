@@ -25,7 +25,7 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 
 [Subnamuncurá](https://chofitet.itch.io/subnamuncura) - Por Jazmín Martinez, Gian Franco Catania (Chicho), Sofía Tetzlaff y Facundo Brizzi
 
-[Alhué](https://drive.google.com/drive/folders/1WMpgKQyzo7W5hgKM4gHubewGcZdkLnim) - Por Ursa Major Studio
+[Alhué](https://drive.google.com/drive/folders/1WMpgKQyzo7W5hgKM4gHubewGcZdkLnim) - Alhué se embarca en una aventura al pico de la montaña para curar al bosque de la enfermedad que lo contamina, y a la vez, a sí misma. Por [Constanza Morend](https://kirayni.carrd.co) (Ursa Major Estudio)
 
 [Fizzy Ride](https://damianartclub.itch.io/fizzyride) - Un viajecito bicolor entre las nubes. Por DamianArtClub
 
