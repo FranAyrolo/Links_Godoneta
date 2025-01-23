@@ -3,7 +3,7 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 
 
 # Este es un repositorio donde vas a poder encontrar juegos argentinos hechos con Godot.
-## El conjunto intersección entre [Steamcito, Videojuegos Argentinos](https://store.steampowered.com/curator/45013169/) y [Is It Made With Godot](https://store.steampowered.com/curator/41324400-Is-it-made-with-Godot/)!
+## El conjunto intersección entre [Steamcito, Videojuegos Argentinos](https://store.steampowered.com/curator/45013169/) e [Is It Made With Godot](https://store.steampowered.com/curator/41324400-Is-it-made-with-Godot/)!
 ### Podés encontrar más juegos hechos en Godot a nivel global en [Awesome Godot](https://github.com/godotengine/awesome-godot)
 
 
@@ -19,19 +19,19 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 
 [ABUELA-LALA-LA-LA-LA](https://destruction-company.itch.io/abuela-la-la-la) - Por Destruction Company
 
-[El funeral del payaso Wang Paseca](https://destruction-company.itch.io/el-funeral-del-payaso-wang-paseca) Tu amigo llevaba una doble vida como payaso, y te acabás de enterar en su funeral. Salí de esta situación incómoda sin reírte con la procesión circense - Por Destruction Company
+[El funeral del Payaso Wang Paseca](https://destruction-company.itch.io/el-funeral-del-payaso-wang-paseca) Tu amigo llevaba una doble vida como payaso, y te acabás de enterar en su funeral. Salí de esta situación incómoda sin reírte con la procesión circense - Por Destruction Company
 
-[Allí Había un Bosque](https://elfogon.itch.io/therewasaforest) Ayuda a Ellie, una niña misteriosa perdida en un bosque, a encontrar el camino a casa. Conocé a las criaturas que habitan El Bosque en su aventura por salvarlo de la oscuridad. - Por El Fogón Game Studio
+[Era en un Bosque (There was a Forest)](https://elfogon.itch.io/therewasaforest) Ayuda a Ellie, una niña misteriosa perdida en un bosque, a encontrar el camino a casa. Conocé a las criaturas que habitan El Bosque en su aventura por salvarlo de la oscuridad. - Por El Fogón Game Studio
 
 [Subnamuncurá](https://chofitet.itch.io/subnamuncura) - Por Jazmín Martinez, Gian Franco Catania (Chicho), Sofía Tetzlaff y Facundo Brizzi
 
 [Alhué](https://drive.google.com/drive/folders/1WMpgKQyzo7W5hgKM4gHubewGcZdkLnim) - Por Ursa Major Studio
 
-[Fizzy Ride](https://damianartclub.itch.io/fizzyride) - Por DamianArtClub
+[Fizzy Ride](https://damianartclub.itch.io/fizzyride) - Un viajecito bicolor entre las nubes. Por DamianArtClub
 
-[Void in One!](https://estroponcio.itch.io/void-in-one) - Por Estroponcio
+[Void in One!](https://estroponcio.itch.io/void-in-one) - Un intento de jugar al golf en el espacio, intentando usar la gravedad de los agujeros negro a tu favor, pero no demasiado... Por Estroponcio
 
-[BattleCats Survivors Snake](https://play.google.com/store/apps/details?id=com.battlecats.survivors) - Por Lightvessel 
+[BattleCats Survivors](https://play.google.com/store/apps/details?id=com.battlecats.survivors) - Un cruce entre la viborita, Vampire Survivors y gatitos! Por Lightvessel. 
 
 [Borza Pocket](https://j9794.itch.io/borza-pocket) - Borza tiene un montón de remeras de la meetup de Godot, emboscalo y pedile algunas. Por Nicolás Calens y Juan Fernandes. 
 
