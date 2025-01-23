@@ -15,7 +15,7 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 
 [¿Cuántos ____ hacen falta para cambiar un foquito?](https://j9794.itch.io/ggj2024) Clickeá para averiguar si 2 elefantes y 3 ingenieros son más eficientes que 6 gallinas y un ventilador - Por Juan Fernandes
 
-[Galaxyno](https://j9794.itch.io/galaxyno) - Por Juan Fernandes
+[Galaxyno](https://j9794.itch.io/galaxyno) - Por Nicolás Colens, Francisco Melink, Manuel Maceira y Juan Fernandes
 
 [ABUELA-LALA-LA-LA-LA](https://destruction-company.itch.io/abuela-la-la-la) - Por Destruction Company
 
@@ -32,4 +32,6 @@ Repositorio de enlaces a juegos y recursos godoteros argentinos
 [Void in One!](https://estroponcio.itch.io/void-in-one) - Por Estroponcio
 
 [BattleCats Survivors Snake](https://play.google.com/store/apps/details?id=com.battlecats.survivors) - Por Lightvessel 
+
+[Borza Pocket](https://j9794.itch.io/borza-pocket) - Borza tiene un montón de remeras de la meetup de Godot, emboscalo y pedile algunas. Por Nicolás Calens y Juan Fernandes. 
 
